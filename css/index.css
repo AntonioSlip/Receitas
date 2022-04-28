@@ -1,0 +1,23 @@
+*{
+    background-color: rgb(179, 179, 179);
+}
+#bolo_simples1{
+    height: 110px;
+    width: 135px;
+    border-radius: 10%;
+    border: 1px solid rgb(255, 0, 0);
+}
+#titulo1{
+    text-align: center;
+    margin-bottom: 5rem;
+}
+.bolos{
+    text-align: center;
+}
+.bolos h2{
+    color: orangered;
+}
+#pesquisa{
+    text-align: center;
+    margin-bottom: 5rem;
+}

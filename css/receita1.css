@@ -1,0 +1,31 @@
+*{
+    background-color: rgb(179, 179, 179);
+}
+#titulo2{
+    text-align: center;
+    color: orangered;
+}
+#bolo_simples2{
+    border-radius: 10%;
+    border: 1px solid rgb(255, 0, 0);
+    margin-bottom: 1rem;
+}
+#opções{
+    text-align: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    color: blue;
+}
+#ingredientes{
+    margin-bottom: 5rem;
+    font-size: 1.4rem;
+    
+}
+#modo_de_preparo{
+    margin-bottom: 5rem;
+    font-size: 1.4rem;
+}
+#informações_adicionais{
+    margin-bottom: 5rem;
+    font-size: 1.4rem;
+}
